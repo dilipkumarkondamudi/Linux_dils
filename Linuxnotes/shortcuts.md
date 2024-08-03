@@ -3,7 +3,7 @@
   ls
   ls -l
   ls -all
-  cat <filename>
+  cat
   
   ** file/folder create** [Refer](https://www.markdownguide.org/cheat-sheet/)
    1. touch
