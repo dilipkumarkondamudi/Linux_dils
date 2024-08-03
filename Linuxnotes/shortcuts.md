@@ -10,3 +10,5 @@
    2. mkdir
 
 note: To View the *outpot* "cat /etc/group" and "cat /etc/user"
+
+![preview](./images/test.png)
